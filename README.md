@@ -16,10 +16,15 @@ Explore the comprehensive sections of our application:
 
 
 1.Upload Data: Upload fresh data or option  for a sample file to delveop into data exploration.
+
 2.Data Understanding: Use handy tools to cleanse the data and delve into exploratory data analysis with our visualization tools.
+
 3.Data Visualization: Visualize all necessary visualizations to understand your customers
+
 4.Modeling and Prediction: Engage with the RFM analysis and KMeans algorithm to identify the best clustering strategy and Input new data and get predictions on the potential cluster for new customers while having the facility to download the results.
+
 5.Summary: Simplify the visualizations for understanding customer segmentation using K-means Clustering, RFM analysis, and Association Rule Mining. Additionally, explore dashboard ideas for a streamlined presentation of insights
+
 6.Feedback: Share your valuable feedback for the continual enhancement of the application.
 
 
