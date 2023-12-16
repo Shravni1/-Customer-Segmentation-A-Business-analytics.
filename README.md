@@ -1,12 +1,12 @@
 # -Customer-Segmentation-A-Business-analytics.
 A Streamlit app for a Customer Segmentation Project using K-means Clustering, RFM (Recency, Frequency, Monetary) analysis, and Association Rule Mining.
 
-![image](https://github.com/Shravni1/-Customer-Segmentation-A-Business-analytics./assets/110089214/7cd22f53-c9f6-4433-a8cf-95151dedb25e)
+                      ![image](https://github.com/Shravni1/-Customer-Segmentation-A-Business-analytics./assets/110089214/7cd22f53-c9f6-4433-a8cf-95151dedb25e)
 
 
 
 
-About
+
 Welcome to our Customer Segmentation app , a dynamic tool developed by utilizing Streamlit, the renowned open-source Python framework. This application facilitates the detailed analysis and segmentation of customer data, allowing businesses to fine-tune their strategies and grasp the nuances of various market segments more effectively.In today's business landscape, understanding customers is crucial for targeted marketing efforts. However, businesses face challenges in segmenting their diverse customer base effectively. The right criteria for segmentation must be meaningful, actionable, and easy to understand. Accurate and up-to-date data is needed to accurately reflect the dynamic nature of the customer base. To overcome this, businesses can use a comprehensive methodology that includes data collection, cleaning, transformation, visualization, and clustering algorithms like k-means and RFM analysis. The Apriori algorithm can uncover associations within customer behaviors. Data summarization techniques can be used to deploy insights into marketing strategies. A streamlined web application with Streamlit can visually present these insights, enabling businesses to adapt dynamically to market demands.
 
 
