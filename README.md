@@ -1,7 +1,6 @@
 # -Customer-Segmentation-A-Business-analytics.
 A Streamlit app for a Customer Segmentation Project using K-means Clustering, RFM (Recency, Frequency, Monetary) analysis, and Association Rule Mining.
-
-                      ![image](https://github.com/Shravni1/-Customer-Segmentation-A-Business-analytics./assets/110089214/7cd22f53-c9f6-4433-a8cf-95151dedb25e)
+ ![image](https://github.com/Shravni1/-Customer-Segmentation-A-Business-analytics./assets/110089214/7cd22f53-c9f6-4433-a8cf-95151dedb25e)
 
 
 
